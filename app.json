@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "aptos-rn-app",
-    "slug": "aptos-rn-app",
+    "name": "test-rn-app",
+    "slug": "test-rn-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
